@@ -1,0 +1,7 @@
+.env
+node_modules
+data
+pgdata
+src/api/v1/public
+dist
+logs
