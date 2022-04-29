@@ -1,4 +1,4 @@
-# Darkvadar API
+# RALI API
 Develop a service via REST API that allows clients to communicate with the drones. In essence its a dispatch controller.
 
 # STEPS TO RUN APP
